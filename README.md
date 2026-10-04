@@ -8,9 +8,10 @@ of classic oversized piston-era pens, built from scratch for resin and
 FDM printing, and every thread joint was validated against a simulated
 screw-on path before it was ever printed.
 
-📄 The full illustrated story is in
+* The full illustrated story is in
 [Docs/ModPen-Design-History.pdf](Docs/ModPen-Design-History.pdf).
-I have some photos in my [Instagram](https://www.instagram.com/bjjworkshop/).
+* I have some photos in my [Instagram](https://www.instagram.com/bjjworkshop/).
+* Here's a link to the [project on Makerworld](https://makerworld.com/en/models/3389170-mod-pen-a-modular-3d-printable-fountain-pen#profileId-3857095). 
 
 ## What's included
 
