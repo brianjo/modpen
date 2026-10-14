@@ -12,6 +12,7 @@ screw-on path before it was ever printed.
 [Docs/ModPen-Design-History.pdf](Docs/ModPen-Design-History.pdf).
 * I have some photos in my [Instagram](https://www.instagram.com/bjjworkshop/).
 * Here's a link to the [project on Makerworld](https://makerworld.com/en/models/3389170-mod-pen-a-modular-3d-printable-fountain-pen#profileId-3857095). 
+* Watch the [assembly video on YouTube](https://www.youtube.com/watch?v=5FYaszDyGpc).
 
 ## What's included
 
