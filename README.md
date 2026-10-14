@@ -19,6 +19,7 @@ screw-on path before it was ever printed.
 |---|---|
 | `Barrel/` | The single barrel every cap and section fits |
 | `Caps/` | Six cap designs, all interchangeable |
+| `Compact Caps/` | Compact versions of all six caps — same styles, shorter profile |
 | `Sections/` | Two fountain-pen grip sections (Jinhao #6 nib unit) |
 | `Source/` | `ModPen.scad` — the parametric OpenSCAD master that generates every part |
 | `Docs/` | `ModPen-Design-History.pdf` — the illustrated design history of the project |
@@ -40,6 +41,11 @@ back band:
 | Colonna | `ModPen-Cap-Colonna.stl` | Fluted, like a classical column |
 | Piazza | `ModPen-Cap-Piazza.stl` | Beveled-square profile |
 | Pisa | `ModPen-Cap-Pisa.stl` | Tower-inspired: fine vertical ribs and five raised floor beads (stands up straight, unlike the original) |
+
+**Compact Caps** — each of the six designs also comes in a compact
+version (`ModPen-Cap-<Name>-Compact.stl` in `Compact Caps/`): same
+style and the same barrel/post fit, in a shorter, pocket-friendlier
+profile.
 
 **Sections** — `ModPen-Section-Standard.stl` (classic straight grip)
 and `ModPen-Section-Flared.stl` (flares out at the nib end, prints
