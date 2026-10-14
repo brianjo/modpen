@@ -20,7 +20,7 @@ screw-on path before it was ever printed.
 | `Barrel/` | The single barrel every cap and section fits |
 | `Caps/` | Six cap designs, all interchangeable |
 | `Compact Caps/` | Compact versions of all six caps — same styles, shorter profile |
-| `Sections/` | Two fountain-pen grip sections (Jinhao #6 nib unit) |
+| `Sections/` | Three fountain-pen grip sections (Jinhao #6 and JoWo #6 nib units) |
 | `Source/` | `ModPen.scad` — the parametric OpenSCAD master that generates every part |
 | `Docs/` | `ModPen-Design-History.pdf` — the illustrated design history of the project |
 
@@ -49,8 +49,9 @@ profile.
 
 **Sections** — `ModPen-Section-Standard.stl` (classic straight grip)
 and `ModPen-Section-Flared.stl` (flares out at the nib end, prints
-support-free). Both take a Jinhao #6 screw-in nib unit and use the
-same barrel joint.
+support-free), both for the Jinhao #6 screw-in nib unit, plus
+`ModPen-Section-Flare-JoWo_6_ascii.stl` (flared grip for the JoWo #6
+nib unit). All three use the same barrel joint.
 
 ## Making one
 
@@ -59,8 +60,9 @@ same barrel joint.
 - **FDM works** for prototyping: 0.12 mm layers, 100% infill, slow
   outer walls. In the OpenSCAD master, set `MODE="prototype"` to add
   FDM compensation.
-- You will need one Jinhao #6 nib unit per pen. Sections, barrel, and
-  caps are all printed; no other hardware.
+- You will need one nib unit per pen: Jinhao #6 for the Standard and
+  Flared sections, JoWo #6 for the JoWo flared section. Sections,
+  barrel, and caps are all printed; no other hardware.
 - Every cap is interchangeable: pick a cap, pick a section, one barrel,
   and you have a pen.
 

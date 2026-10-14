@@ -3,6 +3,14 @@
 All notable changes to Mod Pen, in reverse chronological order. Format
 follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2026-10-14 — JoWo #6 section
+
+### Added
+
+- `Sections/ModPen-Section-Flare-JoWo_6_ascii.stl`: flared grip
+  section for the JoWo #6 nib unit, using the same barrel joint.
+- README documents the new section and nib-unit options.
+
 ## 2026-10-14 — Compact caps
 
 ### Added
